@@ -3,6 +3,7 @@
 .app__160d8 {
 	background-image: var(--theme-wallpaper);
 	background-size: var(--theme-wallpaper-mode);
+	background-position: center center;
 }
 
 .container_fb64c9,
